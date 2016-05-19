@@ -1,5 +1,5 @@
 # currency-flags
-This package outputs two CSS files (minified and unminified) with classes for currency codes using a base64 sprite inlined in CSS.
+This package outputs two CSS files (minified and unminified) with classes for currency codes using base64 background images inlined.
 
 ## How to use
 
