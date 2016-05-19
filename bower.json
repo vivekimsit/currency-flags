@@ -3,9 +3,9 @@
   "description": "Flags for currency codes.",
   "main": "dist/currency-flags.css",
   "ignore": [
-    "dist/sprite.png",
-    "flags",
-    "bower.json"
+    "src",
+    ".gitignore",
+    "package.json"
   ],
   "repository": {
     "type": "git",
