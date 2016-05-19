@@ -16,8 +16,12 @@ or
 **3. Use**
 
 ```html
-<div class="currency-flag currency-flag-gbp"></div>
+<div class="currency-flag currency-flag-gbp" style="width: 24px; height: 16px; background-size: cover;"></div>
 ```
+
+<img src="http://i.imgur.com/Fdd5VLp.png">
+
+The dimensions are specified on the element due to this package only outputting `background-image` values, this should actually happen in your CSS.
 
 ## How to add flags
 
