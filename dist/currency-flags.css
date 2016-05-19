@@ -1,3 +1,24 @@
+.currency-flag {
+  display: inline-block;
+  width: 24px;
+  height: 16px;
+  background-size: cover;
+}
+
+.currency-flag-sm {
+  width: 16px;
+  height: 10px;
+}
+
+.currency-flag-lg {
+  width: 36px;
+  height: 24px;
+}
+
+.currency-flag-xl {
+  width: 48px;
+  height: 32px;
+}
 .currency-flag.currency-flag-aed{background-image:url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAgAgMAAAApuhOPAAAADFBMVEUAAAAAcy/+AQH///+EOfg+AAAAHElEQVQY02NYtWpVKAwwDBTnPwwMQg4DHAwEBwCJ+ck3G+19rwAAAABJRU5ErkJggg==');}
 .currency-flag.currency-flag-aud{background-image:url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAgCAMAAABjCgsuAAAAllBMVEUAIH8BIH8CIYAJJ4MSL4gYNIsaNowvSZYyS5g0TZlHXqJNY6VTaKhWa6pXbKpYbKtkd7Fxgrd2h7qOnMaVosmWo8qXpMqmsdKnstKtt9W6wdvRDSTRDybRh5rSZHjSiJvTGjDURFjVKz/VqrvX2eneytbo4urp4urp6fHq6vLr7fTu7PLx8vf19vn3+Pr4+Pv7+/z///9M1mOaAAABEElEQVQ4y+WTWROCIBSFUSoz28u2m9Gepi38/z8X5BhIYPHUQ2eccRzuJ5d7DmgJm+MYIyYKQPkbj48bWCKTDltY7/aeALz9bg3bgxEYpCuAVTpwcsApvo1A8cdFnQP1hdjRKByeWM8k5kBM2JlOIZbXa75fU5AgjlgdBxgZxYHSwv0ub0iFGCAkKnrnc08CwCCppN1GdkBZn1vSKEiIODRRD/02qzwKUcKBJBJRMc2qwjjZgdesqqJRcqCYVVX4FAdyiSi84v2MisYBG/X7lkC3i36iZtOm2m3hyQS33O+J0eV2vYyqU1QOC8+o7i4rN65QJ+NA1nlf0frN1JhTOm/oVkx+z4bDqdVUvefzD3oALqcw5PUAVWwAAAAASUVORK5CYII=');}
 .currency-flag.currency-flag-bdt{background-image:url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAgBAMAAACm+uYvAAAAIVBMVEUAak4Cak4FaE5OVkpSVEqFR0eeQUbQM0PTM0PpLUH0KkFhgp4jAAAAZUlEQVQoz2NgGNyAya1yeooCFgmLVUDQjCkuugoMAjEkoiASS9HFmVdBgQGahAZMoglNwgsmsQRNIgsmsQxNogomsRxNYhZMYiWxEjiNwmk5Tufi9CDOIMEZiLiDHWdE4Y7awQQAophnd1UnP/oAAAAASUVORK5CYII=');}
